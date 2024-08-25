@@ -1,0 +1,11 @@
+Ejercicio sonidos de animales (POO, DOM, asincronia, IIFE (Immediately Invoked Function Expression) )
+
+1. Hacer clases de objetos, super clase animal y sub clases leon, lobo, serpiente, aguila, oso
+
+2. Crear funciones acorde a lo que necesito lograr y necesito lograr 3 cosas:
+        *que al apretar al animal correspondiente en el dropdown, la foto del animal salga en el panel inferior izquierdo
+
+        *que al presionar agregar (boton debajo de la foto) el animal y sus carecteriticas aparezcan el el panel derecho y que al dar click de nuevo a otro animal, este nuevo animal se agrege al lado del que ya se agrego en el panel de al lado
+
+        *que al presionar la tarjeta del animal en el panel al que se agrego este se habra en un modal al centro de la pantalla
+
